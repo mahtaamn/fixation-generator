@@ -29,7 +29,7 @@ Each user bug contains the following information:
 
 3.fixation_order_number: the order number for the fixation
 
-4. x,y: the coordinates of the gaze
+4.x,y: the coordinates of the gaze
 
 5.fixation_target: the name of the file that the user was looking at
 
@@ -37,7 +37,7 @@ Each user bug contains the following information:
 
 7.source_file_col: which column inside the file was the user looking at
 
-8. duration: the duration of the fixation
+8.duration: the duration of the fixation
 
 
 =========================================
@@ -51,7 +51,7 @@ Outputs:
 
 3.bug_number: what is the main bug number for this task
 
-4. AOI: Which AOI are we referring to? (area of interest).
+4.AOI: Which AOI are we referring to? (area of interest).
 
 5.fixation_count: number of fixations for that specific AOI
 
