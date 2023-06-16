@@ -12,7 +12,11 @@ File & folder Descriptions:
 
 =========================================
 Inputs:
+
+
 Each user bug contains the following information:
+
+
 1.fixation_id: a unique id for the fixation 
 2.fixation_start_event_time: the start time for the fixation
 3.fixation_order_number: the order number for the fixation
@@ -24,6 +28,8 @@ Each user bug contains the following information:
 
 =========================================
 Outputs:
+
+
 1.participant_id: the participant id
 2.task_number: which task number it belongs to(1-6)
 3.bug_number: what is the main bug number for this task
