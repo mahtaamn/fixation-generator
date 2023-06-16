@@ -20,7 +20,7 @@ File & folder Descriptions:
 Inputs:
 
 
-Each user bug contains the following information:
+Each user task contains the following information:
 
 
 1.fixation_id: a unique id for the fixation 
