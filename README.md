@@ -17,7 +17,7 @@ File & folder Descriptions:
 
 =========================================
 
-Inputs:
+Input:
 
 
 Each user task contains the following information:
@@ -42,7 +42,7 @@ Each user task contains the following information:
 
 =========================================
 
-Outputs:
+Output:
 
 
 1.participant_id: the participant id
